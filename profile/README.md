@@ -29,9 +29,9 @@ Finally, the TSE chair contributes on the analysis of human factors analysis in 
 
 ## 👨‍🏫 Research showcase
 ### 2020
-🚁 [Calibrating Transport Models](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/modeling-urban-air-mobility/)
+🚁 [Modelling Urban Air Mobility](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/modeling-urban-air-mobility/)
 ### 2021
-📈 [Modelling Urban Air Mobility](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/calibrating-transport-models/)
+📈 [Calibrating Transport Models](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/calibrating-transport-models/)
 
 
 ## 📫 Connect with us:
