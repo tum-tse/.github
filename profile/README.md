@@ -16,7 +16,7 @@
 
 ![Dino](https://media-exp1.licdn.com/dms/image/C511BAQE0YEatpXfVog/company-background_10000/0/1580765417610?e=1656338400&v=beta&t=IYXnvK2UQD12IHel2zS-aPnZef7LhKmzj2S5_o9SQ7w)
 
-## 👻 About Us
+## 🏫 About Us
 
 Welcome to the GitHub website of the [Transportation Systems Engineering (TSE)](https://www.mos.ed.tum.de/en/vvs/home/) chair of the [Technical University of Munich](https://www.tum.de/).
 
@@ -26,11 +26,11 @@ Specifically, the TSE chair performs research on both multimodal and unimodal fr
 
 Finally, the TSE chair contributes on the analysis of human factors analysis in transport-related fields such as road safety modelling, behavioural economics applications and modelling of factors that affect transportation systems user engagement.
 
-## 👻 Research showcase
+## 👨‍🏫 Research showcase
 ### 2020
-[Modelling Urban Air Mobility](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/calibrating-transport-models/)
+📈[Modelling Urban Air Mobility](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/calibrating-transport-models/)
 ### 2021
-[Calibrating Transport Models](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/modeling-urban-air-mobility/)
+🚁[Calibrating Transport Models](https://www.mos.ed.tum.de/en/vvs/forschung/schaukasten/modeling-urban-air-mobility/)
 
 
 ## 📫 Connect with us:
