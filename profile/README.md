@@ -20,7 +20,7 @@
 
 ## 👻 About Us
 
-Welcome to the online website of the Transportation Systems Engineering (TSE) chair of the Technical University of Munich.
+Welcome to the GitHub website of the [Transportation Systems Engineering (TSE) chair](https://www.mos.ed.tum.de/en/vvs/home/) of the [Technical University of Munich](https://www.tum.de/).
 
 The chair of Transportation Systems Engineering focuses on performing transportation research surrounding aspects of modelling and simulation of transportation systems, implementation of data science and data analytics in transport and human factors analysis.
 
