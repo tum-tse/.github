@@ -39,26 +39,12 @@ Finally, the TSE chair contributes on the analysis of human factors analysis in 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[linkedin]: https://www.linkedin.com/in/hao-wu-a467ba184/
-[gmail]: mailto:britishpatient@gmail.com
-[facebook]: https://www.facebook.com/profile.php?id=100006905951756/
+[linkedin]: https://www.linkedin.com/company/tum-chair-of-transportation-systems-engineering-tse/
+[gmail]: mailto:c.antoniou@tum.de
+[facebook]: https://www.facebook.com/
 
 [instagram]: https://instagram.com/
 [youtube]: https://youtube.com/
 [twitter]: https://twitter.com/
 
 <br />
-
-
-
-
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/hao-wu-a467ba184/)
-[![Facebook Badge](https://img.shields.io/badge/-HaoWu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006905951756/)](https://www.facebook.com/profile.php?id=100006905951756/)
-[![Gmail Badge](https://img.shields.io/badge/-britishpatient@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:britishpatient@gmail.com)](mailto:britishpatient@gmail.com)
-
-<!-- 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
--->
