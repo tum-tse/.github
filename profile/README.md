@@ -20,7 +20,7 @@
 
 Welcome to the GitHub website of the [Transportation Systems Engineering (TSE)](https://www.mos.ed.tum.de/en/vvs/home/) chair of the [Technical University of Munich](https://www.tum.de/).
 
-The chair of Transportation Systems Engineering (owned by [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiter/constantinos-antoniou/)) focuses on performing transportation research surrounding aspects of [modeling and simulation of transportation systems, implementation of data science and data analytics in transport and human factors analysis](https://www.mos.ed.tum.de/en/vvs/research/research-groups/).
+The chair of Transportation Systems Engineering (held by [Prof. Constantinos Antoniou](https://www.mos.ed.tum.de/en/vvs/mitarbeiter/constantinos-antoniou/)) focuses on performing transportation research surrounding aspects of [modeling and simulation of transportation systems, implementation of data science and data analytics in transport and human factors analysis](https://www.mos.ed.tum.de/en/vvs/research/research-groups/).
 
 Specifically, the TSE chair performs research on both multimodal and unimodal freight and passenger transport demand and supply modelling, allowing for contributions on optimisation, calibration and validation of transport models. In this direction, the application of Big Data acquisition and analysis is examined as well as the use of Data-driven flexible models.
 
