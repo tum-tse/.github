@@ -14,7 +14,7 @@
 
 # Hi there 👋🏻 TSE here!
 
-<!-- ![Dino](https://media-exp1.licdn.com/dms/image/C511BAQE0YEatpXfVog/company-background_10000/0/1580765417610?e=1656338400&v=beta&t=IYXnvK2UQD12IHel2zS-aPnZef7LhKmzj2S5_o9SQ7w) -->
+![Dino](https://media-exp1.licdn.com/dms/image/C4E16AQHnBYerA8uoGg/profile-displaybackgroundimage-shrink_350_1400/0/1654112601485?e=1666828800&v=beta&t=F4MEskomU50f2WPAotOdDYzaJQpLKOEBfY0xuTiqfHU)
 
 ## 🏫 About Us
 
