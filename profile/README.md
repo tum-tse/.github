@@ -12,9 +12,11 @@
 
 
 
+<!--
 # Hi there 👋🏻 TSE here!
 
 ![Dino](https://media-exp1.licdn.com/dms/image/C4E16AQHnBYerA8uoGg/profile-displaybackgroundimage-shrink_350_1400/0/1654112601485?e=1666828800&v=beta&t=F4MEskomU50f2WPAotOdDYzaJQpLKOEBfY0xuTiqfHU)
+-->
 
 ## 🏫 About Us
 
